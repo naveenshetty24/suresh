@@ -1,0 +1,27 @@
+1. http://www.mkyong.com/java/java-convert-string-to-int/
+2. http://learnprogramingbyluckysir.blogspot.com/2017/02/spring-interview-questions.
+3. http://www.java-examples.com 
+4. http://www.topjavatutorial.com/webservices/rest/restful-crud-operations-using-jersey-and-hibernate/
+5. http://www.programcreek.com
+6. http://www.java2blog.com/2013/03/jaxws-webservice-deployement-on-tomcat.html
+7. http://www.techpages.org
+8. http://learnprogramingbyluckysir.blogspot.com/
+9. http://www.patrickvideos.com/
+10. http://www.mkyong.com/webservices/jax-rs/jersey-hello-world-example/
+11. http://www.vogella.com/tutorials/REST/article.html#restjersey
+
+Hibernate and Spring
+=======================================================
+
+1. http://www.javawebtutor.com/articles/hibernate/hibernate_example_in_eclipse.php
+2. http://www.codejava.net/coding/upload-files-to-database-servlet-jsp-mysql
+3. http://javawebtutor.com/articles/spring/spring-mvc-hibernate-crud-example.php
+4. https://www.ampower.me/article/Java/CRUD-Example-using-Spring-MVC-Hibernate-Maven-and-MySQL-Java-Web-Tutor-82-460757
+5. http://www.dineshonjava.com/2012/12/spring-mvc-with-hibernate-crud-example.html
+5.1.http://www.dineshonjava.com/2017/02/spring-mvc-interview-questions-and-answers.html#12
+6*. http://way2java.com/hibernate/difference-between-eager-initialization-and-lazy-initialization
+7. http://candidjava.com/hibernate-struts-inserting-data-using-eclipse/
+8. https://www.gontu.org/downloads-tutorials/
+9. http://www.dineshonjava.com/2012/12/spring-web-mvc-framework-chapter-38.html
+10*. http://websystique.com/spring-4-mvc-tutorial/
+
